@@ -32,8 +32,7 @@ CloudFam is a cloud-based file hosting platform built for creators, publishers a
 | Category | Stack |
 |----------|-------|
 | Backend | PHP |
-| Framework | Laravel |
-| Database | MySQL, PostgreSQL |
+| Database | MySQL |
 | Cache | Redis |
 | Storage | Cloudflare R2 |
 | CDN | Cloudflare |
@@ -46,7 +45,6 @@ CloudFam is a cloud-based file hosting platform built for creators, publishers a
 | Service | Link |
 |---------|------|
 | Website | https://cloudfam.io |
-| Dashboard | https://cloudfam.io/dashboard |
 | Documentation | Coming Soon |
 
 ---
